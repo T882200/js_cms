@@ -1,0 +1,16 @@
+{
+  "name": "Keystone",
+  "version": "1.0.0",
+  "description": "Keystone JS CMS with React and Redux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Idan Madar",
+  "license": "MIT",
+  "dependencies": {
+    "keystone": "^4.0.0",
+    "underscore": "^1.9.1"
+  }
+}
